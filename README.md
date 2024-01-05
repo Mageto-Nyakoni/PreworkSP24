@@ -4,8 +4,15 @@ Submitted by: **Mageto Nyakoni**
 
 **About Me** is an app that... showcases a bit about me as a student and randomizes the background color of the app!
 
-Time spent: **2** hours spent in total
-
+Time spent: **3** hours spent in total
+<div>
+    <a href="https://www.loom.com/share/7e2e372f6adf4a7d8dac029dd13b4285">
+      <p>Exploring X and Troubleshooting - Watch Video</p>
+    </a>
+    <a href="https://www.loom.com/share/7e2e372f6adf4a7d8dac029dd13b4285">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/7e2e372f6adf4a7d8dac029dd13b4285-with-play.gif">
+    </a>
+  </div>
 ## Required Features
 Button Funcitonality to randomise the color
 The following **required** functionality is completed:
